@@ -1,5 +1,11 @@
 # soil-air-monitor: 🌿 Smart Agriculture Monitoring System using ESP32, DHT11, DS18B20, BH1750, and ThingSpeak
 https://mehedi-hasan-soft-web-support.github.io/soil-air-monitor/
+
+## 🌐 Live Web Preview
+
+[![Live Preview](https://img.shields.io/badge/View%20Live%20Dashboard-blue?style=for-the-badge&logo=google-chrome)](https://mehedi-hasan-soft-web-support.github.io/soil-air-monitor/)
+
+
 ## 📲 How to Use
 
 1. **Wire all sensors and modules** according to the pin connection table above.
